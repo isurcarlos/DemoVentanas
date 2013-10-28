@@ -1,0 +1,8 @@
+﻿<Window x:Class="DemoVentanas.Ventana2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ventana2" Height="300" Width="300">
+    <Grid>
+        <Label Content="Ventana 2" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" />
+    </Grid>
+</Window>
